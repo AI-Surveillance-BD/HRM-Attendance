@@ -1,7 +1,11 @@
 # Our progress so far: (Can detect faces with high accuracy)
-<video width="320" height="240" controls>
-  <source src="real_output.avi" type="video/avi">
-</video>
+
+
+
+
+https://user-images.githubusercontent.com/106748024/174753313-9a541bb9-9c79-45d7-9705-88205c400078.mp4
+
+
 
 # HRM-Attendance
 <img src="https://github.com/Vi1234sh12/Face-X/blob/master/Facial_Biometric/Images/Timeattdmain%20(1).png" hight="300px" width="600px" align="left"/>
