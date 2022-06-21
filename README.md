@@ -1,6 +1,8 @@
 # Our progress so far: (Can detect faces with high accuracy)
 
-
+<video width="320" height="240" controls>
+  <source src="/Detection using CPU.mp4" type="video/mp4">
+</video>
 
 
 https://user-images.githubusercontent.com/106748024/174753313-9a541bb9-9c79-45d7-9705-88205c400078.mp4
